@@ -19,7 +19,7 @@ For each player, the SR is shown next to their battletag and their top heroes ar
 
 ## Version 4 Release Notes
 - Rudimentary support for tournaments other than Tespa!
-  - Highlight and copy the list of players on a team, and paste it into a txt file. Drag and drop the file onto the jar, and the program will scan the text for battletags and fill the first 9 battletags found in the document.
+  - Highlight and copy the list of players on a team, and paste it into \'roster.txt\'. Run the jar, and the program will scan the text document for battletags and autofill the first 9 battletags found in the document.
   - This means that you don't need to copy each battletag individually, or clear out extra characters that were highlighted. The program should do all the work for you.
   - One thing to note is that this does not work with non-ANSI characters. So if the player uses non-English characters or funky accents you likely need to enter it in manually.
 - Bug Fixes
