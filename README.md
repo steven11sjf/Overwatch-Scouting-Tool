@@ -1,3 +1,12 @@
+# !!! This tool is deprecated !!!
+When this was written, it was in fact able to do all this. However, that was like 3 years ago. A fair amount has changed. 
+
+For one, the Tespa league is no longer running, which means the main functionality (automatically getting all teams' info from one link) is not working. It could be made to work with other tournaments, but I don't care enough to go to the effort, nobody uses this anymore anyways. 
+
+Another, and bigger issue, is that Overwatch introduced role queue to the competitive mode so their website's career profile format has changed. So even if you manually enter a battletag, it doesn't work. This would require a significant amount of work to fix, I would need to add three different SRs for each player to the GUI, and adjust the web scraper code to find where everything is again. 
+
+So in conclusion, this is mostly a relic of the past. The program still opens, and I think the code is pretty well documented, so I'll leave it on my page. I wish I'd taken screenshots but that was from an old computer that I no longer have and I don't think any images have survived. 
+
 # Overwatch Scouting Tool
 A scouting tool that scouts up to 9 players at a time, and is designed to scout Tespa teams easily. Support for other tournaments (such as Open Division) is also available. 
 
